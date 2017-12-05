@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Save usage stats for selected GLAM categories.
 
-Usage: python3 glam_stats.py --config cats.json
+Usage: python3 glam_stats.py --config se_config.json
 """
 from datetime import datetime
 from lxml import etree
