@@ -31,7 +31,10 @@ def make_url(catname):
 
 
 def calculate_percent(part, whole):
-    return round(100 * float(part) / float(whole), 2)
+	if float(whole) > 0:
+		return round(100 * float(part) / float(whole), 2)
+	else:
+		return 0
 
 
 def process_data(xmlblob):
