@@ -26,3 +26,4 @@ jobs:
         with:
           http_url: https://glamtools.toolforge.org/glamorous.php?doit=1&category=Images+from+ArkDes&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml
           downloaded_filename: arkdes.xml
+          postprocess: postprocess.js
