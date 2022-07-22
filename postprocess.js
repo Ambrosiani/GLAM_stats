@@ -27,10 +27,10 @@ for (const institution of institutions) {
     stats.push({
         "name":institution.name, 
         "cat": institution.cat, 
-        "distinct_used": data.results.stats._attributes.distinct_images,
-        "files": data.results._attributes.images_in_category,
+        "distinct_used": parseInt(data.results.stats._attributes.distinct_images),
+        "files": parseInt(data.results._attributes.images_in_category),
         "percent_used": percent_used,
-        "total_usage": data.results.stats._attributes.total_usage
+        "total_usage": parseInt(data.results.stats._attributes.total_usage)
     })
 }
 
