@@ -7,7 +7,7 @@ const filename = Deno.args[0] // Same name as downloaded_filename
 const text = await readTXT(filename)
 
 let data = xml2js(text, { compact: true })
-await writeTXT('arkdes.txt', data)
+await writeJSON('arkdes.json', data)
 
 // await writeTXT('arkdes.txt', text)
 
