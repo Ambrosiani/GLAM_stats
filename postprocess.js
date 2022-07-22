@@ -22,14 +22,13 @@ for (const institution of institutions) {
     await writeJSON('data/' + slugify(institution.name, {lower: true, remove: /[$*_+~.,()'"!\-:@]/g}) + '.json', data, null, 2)
 
     var percent_used = parseInt(data.results.stats._attributes.distinct_images)/parseInt(data.results._attributes.images_in_category)
-    percent_used.toFixed(2)
 
     stats.push({
         "name":institution.name, 
         "cat": institution.cat, 
         "distinct_used": parseInt(data.results.stats._attributes.distinct_images),
         "files": parseInt(data.results._attributes.images_in_category),
-        "percent_used": percent_used,
+        "percent_used": percent_used.toFixed(2),
         "total_usage": parseInt(data.results.stats._attributes.total_usage)
     })
 }
