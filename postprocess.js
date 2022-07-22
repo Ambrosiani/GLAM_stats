@@ -1,6 +1,6 @@
 
 import { readTXT, writeTXT, writeJSON } from 'https://deno.land/x/flat/mod.ts'
-import { parse } from "https://deno.land/x/xml/mod.ts";
+// import { parse } from "https://deno.land/x/xml/mod.ts";
 
 // The filename is the first invocation argument
 const filename = Deno.args[0] // Same name as downloaded_filename
