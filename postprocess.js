@@ -15,8 +15,8 @@ for (const institution of institutions) {
     let response = await fetch(url)
     let body = await response.text()
     let data = xml2js(body, { compact: true })
-    await writeTXT(slugify(institution.name, {lower: true}) + '.xml', body)
-    await writeJSON(slugify(institution.name, {lower: true}) + '.json', data, null, 2)
+    await writeTXT(slugify('.data/' + institution.name, {lower: true, remove: /[$*_+~.()'"!\-:@]/g}) + '.xml', body)
+    await writeJSON(slugify('.data/' + institution.name, {lower: true}) + '.json', data, null, 2)
 }
 
 /*
