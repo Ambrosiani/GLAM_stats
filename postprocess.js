@@ -1,5 +1,5 @@
 
-import { readTXT, writeJSON, readJSONFromURL } from 'https://deno.land/x/flat/mod.ts'
+import { readTXT, writeJSON, readJSON } from 'https://deno.land/x/flat/mod.ts'
 import { xml2js } from "https://deno.land/x/xml2js@1.0.0/mod.ts"
 
 // The filename is the first invocation argument
