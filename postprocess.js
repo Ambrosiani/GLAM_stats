@@ -1,15 +1,15 @@
 
 import { readTXT, writeTXT, writeJSON } from 'https://deno.land/x/flat/mod.ts'
-// import { parse } from "https://deno.land/x/xml/mod.ts";
+import { parse } from 'https://deno.land/x/xml/mod.ts'
 
 // The filename is the first invocation argument
 const filename = Deno.args[0] // Same name as downloaded_filename
 const text = await readTXT(filename)
 
-// let data = parse(text)
-// await writeJSON(newfile, JSON.stringify(data, null, 2))
+let data = stringify(parse(text))
+await writeTXT('arkdes.txt', data)
 
-await writeTXT('arkdes.txt', text)
+// await writeTXT('arkdes.txt', text)
 
 /*
 
