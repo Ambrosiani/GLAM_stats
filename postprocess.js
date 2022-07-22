@@ -1,12 +1,12 @@
 
 import { readTXT, writeTXT, writeJSON } from 'https://deno.land/x/flat/mod.ts'
-import { parse } from 'https://deno.land/x/xml/mod.ts'
+import { xml2js } from "https://deno.land/x/xml2js@1.0.0/mod.ts"
 
 // The filename is the first invocation argument
 const filename = Deno.args[0] // Same name as downloaded_filename
 const text = await readTXT(filename)
 
-let data = stringify(parse(text))
+let data = xml2js(text, { compact: true })
 await writeTXT('arkdes.txt', data)
 
 // await writeTXT('arkdes.txt', text)
