@@ -1,42 +1,24 @@
 
-import { readTXT, writeTXT, writeJSON } from 'https://deno.land/x/flat/mod.ts'
+import { readTXT, writeJSON, readJSONFromURL } from 'https://deno.land/x/flat/mod.ts'
 import { xml2js } from "https://deno.land/x/xml2js@1.0.0/mod.ts"
 
 // The filename is the first invocation argument
-const filename = Deno.args[0] // Same name as downloaded_filename
-const text = await readTXT(filename)
+// const filename = Deno.args[0] // Same name as downloaded_filename
+// const text = await readTXT(filename)
+// let data = xml2js(text, { compact: true })
+// await writeJSON('arkdes.json', data, null, 2)
 
-let data = xml2js(text, { compact: true })
-await writeJSON('arkdes.json', data)
-
-// await writeTXT('arkdes.txt', text)
+var institutions = await readJSON('se_config.json');
+for (const institution of institutions) {
+    let url = 'https://tools.wmflabs.org//glamtools/glamorous.php?doit=1&category=' + institution.cat.replace(' ', '+') '&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml'
+    let text = await readTXT(url)
+    let data = xml2js(text, { compact: true })
+    await writeJSON(institution.name.replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-') + '.json', data, null, 2)
+}
 
 /*
 
-def generate_filename():
-    return datetime.today().strftime('%Y-%m-%d')
 
-
-def make_url(catname):
-    base = (
-        "https://tools.wmflabs.org//glamtools/glamorous.php"
-        "?doit=1&category={}"
-        "&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1"
-        "&projects[wikimedia]=1&projects[wikisource]=1"
-        "&projects[wikibooks]=1&projects[wikiquote]=1"
-        "&projects[wiktionary]=1&projects[wikinews]=1"
-        "&projects[wikivoyage]=1&projects[wikispecies]=1"
-        "&projects[mediawiki]=1&projects[wikidata]=1"
-        "&projects[wikiversity]=1&format=xml"
-    )
-    return base.format(catname.replace(" ", "+"))
-
-
-def calculate_percent(part, whole):
-	if float(whole) > 0:
-		return round(100 * float(part) / float(whole), 2)
-	else:
-		return 0
 
 
 def process_data(xmlblob):
