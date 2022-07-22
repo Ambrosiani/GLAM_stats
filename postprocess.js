@@ -11,8 +11,8 @@ import { xml2js } from "https://deno.land/x/xml2js@1.0.0/mod.ts"
 var institutions = await readJSON('se_config.json');
 for (const institution of institutions) {
     let url = 'https://tools.wmflabs.org//glamtools/glamorous.php?doit=1&category=' + institution.cat.replace(' ', '+') + '&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml'
-    let text = await fetch(url).body
-    let data = xml2js(text, { compact: true })
+    let text = await fetch(url)
+    let data = xml2js(text.text(), { compact: true })
     await writeJSON(institution.name.replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-') + '.json', data, null, 2)
 }
 
