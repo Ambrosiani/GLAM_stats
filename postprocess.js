@@ -20,13 +20,17 @@ for (const institution of institutions) {
     let data = xml2js(body, { compact: true })
     await writeTXT('data/' + slugify(institution.name, {lower: true, remove: /[$*_+~.,()'"!\-:@]/g}) + '.xml', body)
     await writeJSON('data/' + slugify(institution.name, {lower: true, remove: /[$*_+~.,()'"!\-:@]/g}) + '.json', data, null, 2)
+
+    var percent_used = parseInt(data.results.stats._attributes.distinct_images)/parseInt(data.results._attributes.images_in_category)
+    percent_used.toFixed(2)
+
     stats.push({
         "name":institution.name, 
         "cat": institution.cat, 
         "distinct_used": data.results.stats._attributes.distinct_images,
         "files": data.results._attributes.images_in_category,
-        "percent_used": data.results.stats._attributes.distinct_images/data.results._attributes.images_in_category,
-        "total_usage": data.results.stats._attributes.total_usage.toFixed(2)
+        "percent_used": percent_used,
+        "total_usage": data.results.stats._attributes.total_usage
     })
 }
 
