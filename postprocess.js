@@ -21,7 +21,7 @@ for (const institution of institutions) {
     await writeTXT('data/' + slugify(institution.name, {lower: true, remove: /[$*_+~.,()'"!\-:@]/g}) + '.xml', body)
     await writeJSON('data/' + slugify(institution.name, {lower: true, remove: /[$*_+~.,()'"!\-:@]/g}) + '.json', data, null, 2)
 
-    var percent_used = parseInt(data.results.stats._attributes.distinct_images)/parseInt(data.results._attributes.images_in_category)
+    var percent_used = 100*parseInt(data.results.stats._attributes.distinct_images)/parseInt(data.results._attributes.images_in_category)
 
     stats.push({
         "name":institution.name, 
