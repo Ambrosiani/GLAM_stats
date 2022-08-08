@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "6197",
-        "distinct_images": "3115"
+        "total_usage": "6198",
+        "distinct_images": "3116"
       },
       "usage": [
         {
@@ -348,14 +348,20 @@
         },
         {
           "_attributes": {
+            "project": "az.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
             "project": "bn.wikipedia",
             "usage_count": "11"
           }
         },
         {
           "_attributes": {
-            "project": "az.wikipedia",
-            "usage_count": "11"
+            "project": "sv.wiktionary",
+            "usage_count": "9"
           }
         },
         {
@@ -390,12 +396,6 @@
         },
         {
           "_attributes": {
-            "project": "sv.wiktionary",
-            "usage_count": "8"
-          }
-        },
-        {
-          "_attributes": {
             "project": "en.wikiquote",
             "usage_count": "7"
           }
@@ -420,13 +420,13 @@
         },
         {
           "_attributes": {
-            "project": "he.wikiquote",
+            "project": "sk.wikipedia",
             "usage_count": "6"
           }
         },
         {
           "_attributes": {
-            "project": "sk.wikipedia",
+            "project": "he.wikiquote",
             "usage_count": "6"
           }
         },
@@ -468,6 +468,12 @@
         },
         {
           "_attributes": {
+            "project": "ta.wiktionary",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ast.wikipedia",
             "usage_count": "5"
           }
@@ -486,25 +492,19 @@
         },
         {
           "_attributes": {
-            "project": "ta.wiktionary",
-            "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
             "project": "lv.wikipedia",
             "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "el.wiktionary",
+            "project": "mr.wikipedia",
             "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "mr.wikipedia",
+            "project": "el.wiktionary",
             "usage_count": "4"
           }
         },
