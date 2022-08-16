@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "87",
+        "total_usage": "89",
         "distinct_images": "16"
       },
       "usage": [
@@ -54,13 +54,19 @@
         },
         {
           "_attributes": {
-            "project": "ro.wikipedia",
+            "project": "ru.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "bg.wikipedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "uk.wikipedia",
+            "project": "ro.wikipedia",
             "usage_count": "3"
           }
         },
@@ -72,20 +78,8 @@
         },
         {
           "_attributes": {
-            "project": "bg.wikipedia",
+            "project": "uk.wikipedia",
             "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "hy.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ru.wikipedia",
-            "usage_count": "2"
           }
         },
         {
@@ -102,61 +96,13 @@
         },
         {
           "_attributes": {
-            "project": "ja.wikipedia",
-            "usage_count": "1"
+            "project": "hy.wikipedia",
+            "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "azb.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "da.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "vi.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "war.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "az.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pt.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ast.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "nl.wikipedia",
+            "project": "it.wikipedia",
             "usage_count": "1"
           }
         },
@@ -168,7 +114,61 @@
         },
         {
           "_attributes": {
-            "project": "it.wikipedia",
+            "project": "nl.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "ast.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pt.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "war.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "arz.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "az.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "azb.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "vi.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "ja.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "da.wikipedia",
             "usage_count": "1"
           }
         },
