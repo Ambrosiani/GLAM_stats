@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "1852",
-        "distinct_images": "867"
+        "total_usage": "1855",
+        "distinct_images": "868"
       },
       "usage": [
         {
@@ -31,7 +31,7 @@
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "294"
+            "usage_count": "295"
           }
         },
         {
@@ -67,7 +67,7 @@
         {
           "_attributes": {
             "project": "it.wikipedia",
-            "usage_count": "34"
+            "usage_count": "35"
           }
         },
         {
@@ -144,13 +144,13 @@
         },
         {
           "_attributes": {
-            "project": "nn.wikipedia",
+            "project": "et.wikipedia",
             "usage_count": "7"
           }
         },
         {
           "_attributes": {
-            "project": "et.wikipedia",
+            "project": "nn.wikipedia",
             "usage_count": "7"
           }
         },
@@ -174,14 +174,20 @@
         },
         {
           "_attributes": {
+            "project": "he.wiktionary",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
             "project": "sr.wikipedia",
             "usage_count": "5"
           }
         },
         {
           "_attributes": {
-            "project": "he.wiktionary",
-            "usage_count": "5"
+            "project": "he.wikipedia",
+            "usage_count": "4"
           }
         },
         {
@@ -211,12 +217,6 @@
         {
           "_attributes": {
             "project": "id.wikipedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "he.wikipedia",
             "usage_count": "3"
           }
         },
@@ -270,12 +270,6 @@
         },
         {
           "_attributes": {
-            "project": "incubator.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
             "project": "cv.wikipedia",
             "usage_count": "1"
           }
@@ -283,6 +277,12 @@
         {
           "_attributes": {
             "project": "ckb.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "incubator.wikipedia",
             "usage_count": "1"
           }
         },

@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3994",
+        "total_usage": "4000",
         "distinct_images": "3487"
       },
       "usage": [
@@ -60,13 +60,13 @@
         },
         {
           "_attributes": {
-            "project": "no.wikipedia",
+            "project": "de.wikipedia",
             "usage_count": "20"
           }
         },
         {
           "_attributes": {
-            "project": "de.wikipedia",
+            "project": "no.wikipedia",
             "usage_count": "20"
           }
         },
@@ -84,13 +84,13 @@
         },
         {
           "_attributes": {
-            "project": "it.wikipedia",
+            "project": "fi.wikipedia",
             "usage_count": "10"
           }
         },
         {
           "_attributes": {
-            "project": "fi.wikipedia",
+            "project": "it.wikipedia",
             "usage_count": "10"
           }
         },
@@ -102,13 +102,19 @@
         },
         {
           "_attributes": {
-            "project": "ceb.wikipedia",
+            "project": "uk.wikipedia",
             "usage_count": "8"
           }
         },
         {
           "_attributes": {
-            "project": "uk.wikipedia",
+            "project": "cy.wikipedia",
+            "usage_count": "8"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "ceb.wikipedia",
             "usage_count": "8"
           }
         },
@@ -126,13 +132,13 @@
         },
         {
           "_attributes": {
-            "project": "da.wikipedia",
+            "project": "se.wikimedia",
             "usage_count": "5"
           }
         },
         {
           "_attributes": {
-            "project": "se.wikimedia",
+            "project": "da.wikipedia",
             "usage_count": "5"
           }
         },
@@ -210,7 +216,7 @@
         },
         {
           "_attributes": {
-            "project": "cy.wikipedia",
+            "project": "el.wiktionary",
             "usage_count": "2"
           }
         },
@@ -222,19 +228,13 @@
         },
         {
           "_attributes": {
-            "project": "el.wiktionary",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pl.wiktionary",
+            "project": "oc.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "oc.wikipedia",
+            "project": "pl.wiktionary",
             "usage_count": "1"
           }
         },
@@ -246,13 +246,13 @@
         },
         {
           "_attributes": {
-            "project": "ko.wikipedia",
+            "project": "fi.wiktionary",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "fi.wiktionary",
+            "project": "ko.wikipedia",
             "usage_count": "1"
           }
         },
