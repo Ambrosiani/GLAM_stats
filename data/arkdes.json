@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "438",
-        "distinct_images": "262"
+        "total_usage": "440",
+        "distinct_images": "263"
       },
       "usage": [
         {
@@ -66,6 +66,12 @@
         },
         {
           "_attributes": {
+            "project": "pl.wikipedia",
+            "usage_count": "6"
+          }
+        },
+        {
+          "_attributes": {
             "project": "es.wikipedia",
             "usage_count": "6"
           }
@@ -84,19 +90,13 @@
         },
         {
           "_attributes": {
-            "project": "pl.wikipedia",
-            "usage_count": "4"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "nl.wikipedia",
+            "project": "it.wikipedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "it.wikipedia",
+            "project": "nl.wikipedia",
             "usage_count": "3"
           }
         },
@@ -114,6 +114,12 @@
         },
         {
           "_attributes": {
+            "project": "mk.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ja.wikipedia",
             "usage_count": "2"
           }
@@ -126,25 +132,7 @@
         },
         {
           "_attributes": {
-            "project": "mk.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ca.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "bn.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "hi.wikipedia",
+            "project": "gag.wikipedia",
             "usage_count": "1"
           }
         },
@@ -156,19 +144,31 @@
         },
         {
           "_attributes": {
-            "project": "sd.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
             "project": "vi.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "gag.wikipedia",
+            "project": "sd.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "hi.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "bn.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "ca.wikipedia",
             "usage_count": "1"
           }
         },
