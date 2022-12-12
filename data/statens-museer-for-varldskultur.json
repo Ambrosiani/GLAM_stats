@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "1456",
+        "total_usage": "1457",
         "distinct_images": "530"
       },
       "usage": [
@@ -264,6 +264,12 @@
         },
         {
           "_attributes": {
+            "project": "eo.wikipedia",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
             "project": "uz.wikipedia",
             "usage_count": "4"
           }
@@ -300,12 +306,6 @@
         },
         {
           "_attributes": {
-            "project": "eo.wikipedia",
-            "usage_count": "4"
-          }
-        },
-        {
-          "_attributes": {
             "project": "species.wikipedia",
             "usage_count": "4"
           }
@@ -318,12 +318,6 @@
         },
         {
           "_attributes": {
-            "project": "da.wikipedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
             "project": "an.wikipedia",
             "usage_count": "3"
           }
@@ -331,6 +325,12 @@
         {
           "_attributes": {
             "project": "ug.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "da.wikipedia",
             "usage_count": "3"
           }
         },
