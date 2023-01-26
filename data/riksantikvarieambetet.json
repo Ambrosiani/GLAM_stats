@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "11080",
+        "total_usage": "11082",
         "distinct_images": "5768"
       },
       "usage": [
@@ -25,7 +25,7 @@
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "2117"
+            "usage_count": "2118"
           }
         },
         {
@@ -372,6 +372,12 @@
         },
         {
           "_attributes": {
+            "project": "zh.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
             "project": "is.wikipedia",
             "usage_count": "4"
           }
@@ -402,19 +408,13 @@
         },
         {
           "_attributes": {
-            "project": "uk.wiktionary",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
             "project": "pl.wikivoyage",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "tt.wikipedia",
+            "project": "uk.wiktionary",
             "usage_count": "3"
           }
         },
@@ -426,7 +426,7 @@
         },
         {
           "_attributes": {
-            "project": "zh.wikipedia",
+            "project": "tt.wikipedia",
             "usage_count": "3"
           }
         },
@@ -444,7 +444,7 @@
         },
         {
           "_attributes": {
-            "project": "lt.wikipedia",
+            "project": "incubator.wikipedia",
             "usage_count": "2"
           }
         },
@@ -462,7 +462,13 @@
         },
         {
           "_attributes": {
-            "project": "incubator.wikipedia",
+            "project": "id.wiktionary",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "lt.wikipedia",
             "usage_count": "2"
           }
         },
@@ -481,12 +487,6 @@
         {
           "_attributes": {
             "project": "hr.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "id.wiktionary",
             "usage_count": "2"
           }
         },
