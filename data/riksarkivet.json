@@ -7,19 +7,19 @@
   "results": {
     "_attributes": {
       "category": "Images from the National Archives of Sweden",
-      "images_in_category": "1500",
+      "images_in_category": "1502",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+National+Archives+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3746",
-        "distinct_images": "699"
+        "total_usage": "3755",
+        "distinct_images": "705"
       },
       "usage": [
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "1068"
+            "usage_count": "1070"
           }
         },
         {
@@ -73,7 +73,7 @@
         {
           "_attributes": {
             "project": "outreach.wikipedia",
-            "usage_count": "74"
+            "usage_count": "80"
           }
         },
         {
@@ -486,6 +486,12 @@
         },
         {
           "_attributes": {
+            "project": "sl.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "cy.wikipedia",
             "usage_count": "2"
           }
@@ -523,12 +529,6 @@
         {
           "_attributes": {
             "project": "gd.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "sl.wikipedia",
             "usage_count": "1"
           }
         },
