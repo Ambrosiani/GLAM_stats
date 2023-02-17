@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "4167",
+        "total_usage": "4168",
         "distinct_images": "3594"
       },
       "usage": [
@@ -60,13 +60,13 @@
         },
         {
           "_attributes": {
-            "project": "de.wikipedia",
-            "usage_count": "21"
+            "project": "no.wikipedia",
+            "usage_count": "20"
           }
         },
         {
           "_attributes": {
-            "project": "no.wikipedia",
+            "project": "de.wikipedia",
             "usage_count": "20"
           }
         },
@@ -108,7 +108,7 @@
         },
         {
           "_attributes": {
-            "project": "ceb.wikipedia",
+            "project": "uk.wikipedia",
             "usage_count": "8"
           }
         },
@@ -120,7 +120,7 @@
         },
         {
           "_attributes": {
-            "project": "uk.wikipedia",
+            "project": "ceb.wikipedia",
             "usage_count": "8"
           }
         },
@@ -138,13 +138,13 @@
         },
         {
           "_attributes": {
-            "project": "ja.wikipedia",
+            "project": "se.wikimedia",
             "usage_count": "5"
           }
         },
         {
           "_attributes": {
-            "project": "se.wikimedia",
+            "project": "ja.wikipedia",
             "usage_count": "5"
           }
         },
@@ -162,7 +162,7 @@
         },
         {
           "_attributes": {
-            "project": "hu.wikipedia",
+            "project": "mk.wikipedia",
             "usage_count": "3"
           }
         },
@@ -174,8 +174,44 @@
         },
         {
           "_attributes": {
-            "project": "mk.wikipedia",
+            "project": "hu.wikipedia",
             "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "et.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "be.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "eo.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "el.wiktionary",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "eu.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "he.wikipedia",
+            "usage_count": "2"
           }
         },
         {
@@ -198,55 +234,13 @@
         },
         {
           "_attributes": {
-            "project": "el.wiktionary",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
             "project": "ar.wikipedia",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "eu.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "eo.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "be.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "et.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "oc.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
             "project": "nl.wiktionary",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "en.wiktionary",
             "usage_count": "1"
           }
         },
@@ -258,19 +252,37 @@
         },
         {
           "_attributes": {
+            "project": "sr.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "en.wiktionary",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "oc.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
             "project": "fi.wiktionary",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "ro.wikipedia",
+            "project": "ko.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "ko.wikipedia",
+            "project": "ro.wikipedia",
             "usage_count": "1"
           }
         },
@@ -288,19 +300,7 @@
         },
         {
           "_attributes": {
-            "project": "el.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "sr.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "en.wikiquote",
+            "project": "meta.wikipedia",
             "usage_count": "1"
           }
         },
@@ -312,7 +312,13 @@
         },
         {
           "_attributes": {
-            "project": "meta.wikipedia",
+            "project": "en.wikiquote",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "el.wikipedia",
             "usage_count": "1"
           }
         },
