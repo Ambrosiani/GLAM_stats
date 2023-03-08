@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "91",
+        "total_usage": "92",
         "distinct_images": "16"
       },
       "usage": [
@@ -72,6 +72,12 @@
         },
         {
           "_attributes": {
+            "project": "es.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "species.wikipedia",
             "usage_count": "3"
           }
@@ -80,12 +86,6 @@
           "_attributes": {
             "project": "uk.wikipedia",
             "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "es.wikipedia",
-            "usage_count": "2"
           }
         },
         {
