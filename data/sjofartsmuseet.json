@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "63",
-        "distinct_images": "43"
+        "total_usage": "64",
+        "distinct_images": "44"
       },
       "usage": [
         {
@@ -42,6 +42,12 @@
         },
         {
           "_attributes": {
+            "project": "en.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "es.wikipedia",
             "usage_count": "1"
           }
@@ -49,12 +55,6 @@
         {
           "_attributes": {
             "project": "hy.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "en.wikipedia",
             "usage_count": "1"
           }
         },
