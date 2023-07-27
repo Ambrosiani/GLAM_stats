@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "47",
-        "distinct_images": "44"
+        "total_usage": "48",
+        "distinct_images": "45"
       },
       "usage": [
         {
@@ -26,6 +26,12 @@
           "_attributes": {
             "project": "meta.wikipedia",
             "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "nl.wikipedia",
+            "usage_count": "1"
           }
         },
         {
