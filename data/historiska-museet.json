@@ -7,25 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Images from Statens historiska museum",
-      "images_in_category": "1512",
+      "images_in_category": "2029",
       "query_url": "glamorous.php?doit=1&category=Images+from+Statens+historiska+museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "168",
-        "distinct_images": "78"
+        "total_usage": "180",
+        "distinct_images": "86"
       },
       "usage": [
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "56"
+            "usage_count": "62"
           }
         },
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "22"
+            "usage_count": "27"
           }
         },
         {
@@ -60,6 +60,12 @@
         },
         {
           "_attributes": {
+            "project": "uk.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ru.wikipedia",
             "usage_count": "4"
           }
@@ -68,12 +74,6 @@
           "_attributes": {
             "project": "da.wikipedia",
             "usage_count": "4"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "uk.wikipedia",
-            "usage_count": "3"
           }
         },
         {
