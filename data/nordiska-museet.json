@@ -7,13 +7,13 @@
   "results": {
     "_attributes": {
       "category": "Images from Nordiska museet",
-      "images_in_category": "20227",
+      "images_in_category": "20229",
       "query_url": "glamorous.php?doit=1&category=Images+from+Nordiska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3091",
-        "distinct_images": "1431"
+        "total_usage": "3093",
+        "distinct_images": "1433"
       },
       "usage": [
         {
@@ -31,19 +31,19 @@
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "288"
+            "usage_count": "290"
           }
         },
         {
           "_attributes": {
             "project": "cs.wikipedia",
-            "usage_count": "125"
+            "usage_count": "126"
           }
         },
         {
           "_attributes": {
             "project": "de.wikipedia",
-            "usage_count": "102"
+            "usage_count": "103"
           }
         },
         {
@@ -258,12 +258,6 @@
         },
         {
           "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "7"
-          }
-        },
-        {
-          "_attributes": {
             "project": "ru.wiktionary",
             "usage_count": "7"
           }
@@ -296,6 +290,12 @@
           "_attributes": {
             "project": "pl.wiktionary",
             "usage_count": "6"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "arz.wikipedia",
+            "usage_count": "5"
           }
         },
         {
