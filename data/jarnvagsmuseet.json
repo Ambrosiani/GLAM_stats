@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "153",
+        "total_usage": "154",
         "distinct_images": "80"
       },
       "usage": [
@@ -42,13 +42,13 @@
         },
         {
           "_attributes": {
-            "project": "de.wikipedia",
+            "project": "ru.wikipedia",
             "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "ru.wikipedia",
+            "project": "de.wikipedia",
             "usage_count": "4"
           }
         },
@@ -60,7 +60,7 @@
         },
         {
           "_attributes": {
-            "project": "vi.wikipedia",
+            "project": "zh.wikipedia",
             "usage_count": "2"
           }
         },
@@ -72,8 +72,20 @@
         },
         {
           "_attributes": {
-            "project": "zh.wikipedia",
+            "project": "vi.wikipedia",
             "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "es.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sv.wikivoyage",
+            "usage_count": "1"
           }
         },
         {
@@ -114,13 +126,19 @@
         },
         {
           "_attributes": {
-            "project": "pt.wikipedia",
+            "project": "sv.wiktionary",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "sv.wiktionary",
+            "project": "da.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pt.wikipedia",
             "usage_count": "1"
           }
         },
@@ -157,18 +175,6 @@
         {
           "_attributes": {
             "project": "fi.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "es.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "da.wikipedia",
             "usage_count": "1"
           }
         },
