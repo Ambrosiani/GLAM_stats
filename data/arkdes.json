@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "640",
+        "total_usage": "641",
         "distinct_images": "367"
       },
       "usage": [
@@ -241,6 +241,12 @@
         {
           "_attributes": {
             "project": "se.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "smn.wikipedia",
             "usage_count": "1"
           }
         }
