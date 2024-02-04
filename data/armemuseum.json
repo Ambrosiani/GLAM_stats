@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3360",
+        "total_usage": "3363",
         "distinct_images": "789"
       },
       "usage": [
@@ -42,6 +42,12 @@
         },
         {
           "_attributes": {
+            "project": "zh.wikipedia",
+            "usage_count": "97"
+          }
+        },
+        {
+          "_attributes": {
             "project": "es.wikipedia",
             "usage_count": "96"
           }
@@ -49,12 +55,6 @@
         {
           "_attributes": {
             "project": "it.wikipedia",
-            "usage_count": "95"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "zh.wikipedia",
             "usage_count": "95"
           }
         },
@@ -90,13 +90,13 @@
         },
         {
           "_attributes": {
-            "project": "ja.wikipedia",
-            "usage_count": "60"
+            "project": "fr.wikipedia",
+            "usage_count": "61"
           }
         },
         {
           "_attributes": {
-            "project": "fr.wikipedia",
+            "project": "ja.wikipedia",
             "usage_count": "60"
           }
         },
