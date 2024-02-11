@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "12150",
-        "distinct_images": "6225"
+        "total_usage": "12151",
+        "distinct_images": "6226"
       },
       "usage": [
         {
@@ -492,6 +492,12 @@
         },
         {
           "_attributes": {
+            "project": "ia.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "bar.wikipedia",
             "usage_count": "2"
           }
@@ -523,12 +529,6 @@
         {
           "_attributes": {
             "project": "fr.wikivoyage",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ia.wikipedia",
             "usage_count": "2"
           }
         },
