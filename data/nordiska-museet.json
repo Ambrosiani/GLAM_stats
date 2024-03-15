@@ -7,13 +7,13 @@
   "results": {
     "_attributes": {
       "category": "Images from Nordiska museet",
-      "images_in_category": "20282",
+      "images_in_category": "20955",
       "query_url": "glamorous.php?doit=1&category=Images+from+Nordiska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3165",
-        "distinct_images": "1449"
+        "total_usage": "3168",
+        "distinct_images": "1450"
       },
       "usage": [
         {
@@ -120,6 +120,12 @@
         },
         {
           "_attributes": {
+            "project": "se.wikimedia",
+            "usage_count": "29"
+          }
+        },
+        {
+          "_attributes": {
             "project": "uk.wikipedia",
             "usage_count": "28"
           }
@@ -128,12 +134,6 @@
           "_attributes": {
             "project": "pt.wikipedia",
             "usage_count": "27"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "se.wikimedia",
-            "usage_count": "26"
           }
         },
         {
