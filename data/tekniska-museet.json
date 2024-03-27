@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "4508",
+        "total_usage": "4511",
         "distinct_images": "4165"
       },
       "usage": [
@@ -66,13 +66,13 @@
         },
         {
           "_attributes": {
-            "project": "es.wikipedia",
+            "project": "no.wikipedia",
             "usage_count": "11"
           }
         },
         {
           "_attributes": {
-            "project": "no.wikipedia",
+            "project": "es.wikipedia",
             "usage_count": "11"
           }
         },
@@ -90,13 +90,13 @@
         },
         {
           "_attributes": {
-            "project": "cs.wikipedia",
+            "project": "ru.wikipedia",
             "usage_count": "9"
           }
         },
         {
           "_attributes": {
-            "project": "ru.wikipedia",
+            "project": "cs.wikipedia",
             "usage_count": "9"
           }
         },
@@ -114,13 +114,13 @@
         },
         {
           "_attributes": {
-            "project": "fi.wikipedia",
-            "usage_count": "5"
+            "project": "se.wikimedia",
+            "usage_count": "6"
           }
         },
         {
           "_attributes": {
-            "project": "nn.wikipedia",
+            "project": "fi.wikipedia",
             "usage_count": "5"
           }
         },
@@ -132,14 +132,14 @@
         },
         {
           "_attributes": {
-            "project": "pl.wikipedia",
+            "project": "nn.wikipedia",
             "usage_count": "5"
           }
         },
         {
           "_attributes": {
-            "project": "he.wikipedia",
-            "usage_count": "4"
+            "project": "pl.wikipedia",
+            "usage_count": "5"
           }
         },
         {
@@ -150,13 +150,13 @@
         },
         {
           "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "3"
+            "project": "he.wikipedia",
+            "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "se.wikimedia",
+            "project": "arz.wikipedia",
             "usage_count": "3"
           }
         },
@@ -174,25 +174,25 @@
         },
         {
           "_attributes": {
-            "project": "ru.wikivoyage",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
             "project": "fr.wikibooks",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "en.wiktionary",
+            "project": "ru.wikivoyage",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
             "project": "incubator.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "en.wiktionary",
             "usage_count": "2"
           }
         },
@@ -222,6 +222,12 @@
         },
         {
           "_attributes": {
+            "project": "ta.wiktionary",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ka.wikipedia",
             "usage_count": "1"
           }
@@ -229,12 +235,6 @@
         {
           "_attributes": {
             "project": "et.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "mt.wikipedia",
             "usage_count": "1"
           }
         },
@@ -258,13 +258,13 @@
         },
         {
           "_attributes": {
-            "project": "ta.wiktionary",
+            "project": "mt.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "ca.wikipedia",
+            "project": "hy.wikipedia",
             "usage_count": "1"
           }
         },
@@ -312,7 +312,7 @@
         },
         {
           "_attributes": {
-            "project": "hy.wikipedia",
+            "project": "ca.wikipedia",
             "usage_count": "1"
           }
         },
