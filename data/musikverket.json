@@ -7,25 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Images from the Swedish Performing Arts Agency",
-      "images_in_category": "15217",
+      "images_in_category": "15218",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+Swedish+Performing+Arts+Agency&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "5918",
-        "distinct_images": "5228"
+        "total_usage": "5923",
+        "distinct_images": "5230"
       },
       "usage": [
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "4835"
+            "usage_count": "4836"
           }
         },
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "397"
+            "usage_count": "398"
           }
         },
         {
@@ -55,7 +55,7 @@
         {
           "_attributes": {
             "project": "fr.wikipedia",
-            "usage_count": "38"
+            "usage_count": "39"
           }
         },
         {
@@ -85,7 +85,7 @@
         {
           "_attributes": {
             "project": "arz.wikipedia",
-            "usage_count": "15"
+            "usage_count": "16"
           }
         },
         {
@@ -198,7 +198,7 @@
         },
         {
           "_attributes": {
-            "project": "meta.wikipedia",
+            "project": "mk.wikipedia",
             "usage_count": "3"
           }
         },
@@ -210,38 +210,14 @@
         },
         {
           "_attributes": {
-            "project": "mk.wikipedia",
+            "project": "meta.wikipedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "be.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "el.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ne.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "eo.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
             "project": "ar.wikipedia",
-            "usage_count": "2"
+            "usage_count": "3"
           }
         },
         {
@@ -259,6 +235,30 @@
         {
           "_attributes": {
             "project": "en.wikibooks",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "eo.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "ne.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "el.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "be.wikipedia",
             "usage_count": "2"
           }
         },
@@ -288,6 +288,12 @@
         },
         {
           "_attributes": {
+            "project": "pl.wiktionary",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
             "project": "nl.wiktionary",
             "usage_count": "1"
           }
@@ -307,12 +313,6 @@
         {
           "_attributes": {
             "project": "en.wikiversity",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pl.wiktionary",
             "usage_count": "1"
           }
         },
