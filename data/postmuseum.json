@@ -12,10 +12,16 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "44",
-        "distinct_images": "15"
+        "total_usage": "55",
+        "distinct_images": "19"
       },
       "usage": [
+        {
+          "_attributes": {
+            "project": "el.wikipedia",
+            "usage_count": "11"
+          }
+        },
         {
           "_attributes": {
             "project": "ru.wikipedia",
