@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "5",
-        "distinct_images": "3"
+        "total_usage": "6",
+        "distinct_images": "4"
       },
       "usage": [
         {
@@ -25,6 +25,12 @@
         {
           "_attributes": {
             "project": "sv.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sv.wikisource",
             "usage_count": "1"
           }
         }
