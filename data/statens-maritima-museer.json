@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "2146",
+        "total_usage": "2147",
         "distinct_images": "984"
       },
       "usage": [
@@ -180,13 +180,19 @@
         },
         {
           "_attributes": {
+            "project": "he.wiktionary",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
             "project": "id.wikipedia",
             "usage_count": "5"
           }
         },
         {
           "_attributes": {
-            "project": "he.wiktionary",
+            "project": "he.wikipedia",
             "usage_count": "5"
           }
         },
@@ -194,12 +200,6 @@
           "_attributes": {
             "project": "sr.wikipedia",
             "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "he.wikipedia",
-            "usage_count": "4"
           }
         },
         {
@@ -228,7 +228,7 @@
         },
         {
           "_attributes": {
-            "project": "uz.wikipedia",
+            "project": "be.wikipedia",
             "usage_count": "2"
           }
         },
@@ -246,7 +246,7 @@
         },
         {
           "_attributes": {
-            "project": "be.wikipedia",
+            "project": "uz.wikipedia",
             "usage_count": "2"
           }
         },
@@ -264,13 +264,19 @@
         },
         {
           "_attributes": {
+            "project": "sk.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ru.wiktionary",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "sk.wikipedia",
+            "project": "incubator.wikipedia",
             "usage_count": "1"
           }
         },
@@ -295,12 +301,6 @@
         {
           "_attributes": {
             "project": "ckb.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "incubator.wikipedia",
             "usage_count": "1"
           }
         },
