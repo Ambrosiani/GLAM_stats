@@ -7,25 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Media from the National Museums of World Culture",
-      "images_in_category": "8361",
+      "images_in_category": "8363",
       "query_url": "glamorous.php?doit=1&category=Media+from+the+National+Museums+of+World+Culture&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "2185",
-        "distinct_images": "672"
+        "total_usage": "2189",
+        "distinct_images": "673"
       },
       "usage": [
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "377"
+            "usage_count": "378"
           }
         },
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "257"
+            "usage_count": "258"
           }
         },
         {
@@ -37,7 +37,7 @@
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "115"
+            "usage_count": "116"
           }
         },
         {
@@ -276,6 +276,12 @@
         },
         {
           "_attributes": {
+            "project": "be.wikipedia",
+            "usage_count": "9"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ro.wikipedia",
             "usage_count": "8"
           }
@@ -283,12 +289,6 @@
         {
           "_attributes": {
             "project": "hy.wikipedia",
-            "usage_count": "8"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "be.wikipedia",
             "usage_count": "8"
           }
         },
