@@ -7,25 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Images from the Swedish Railway Museum",
-      "images_in_category": "322",
+      "images_in_category": "326",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+Swedish+Railway+Museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "169",
-        "distinct_images": "87"
+        "total_usage": "173",
+        "distinct_images": "91"
       },
       "usage": [
         {
           "_attributes": {
-            "project": "wikidata.wikidata",
+            "project": "sv.wikipedia",
             "usage_count": "55"
           }
         },
         {
           "_attributes": {
-            "project": "sv.wikipedia",
-            "usage_count": "52"
+            "project": "wikidata.wikidata",
+            "usage_count": "55"
           }
         },
         {
@@ -43,7 +43,7 @@
         {
           "_attributes": {
             "project": "de.wikipedia",
-            "usage_count": "5"
+            "usage_count": "6"
           }
         },
         {
