@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "7042",
+        "total_usage": "7043",
         "distinct_images": "3322"
       },
       "usage": [
@@ -348,6 +348,12 @@
         },
         {
           "_attributes": {
+            "project": "ka.wikipedia",
+            "usage_count": "13"
+          }
+        },
+        {
+          "_attributes": {
             "project": "azb.wikipedia",
             "usage_count": "13"
           }
@@ -361,12 +367,6 @@
         {
           "_attributes": {
             "project": "fi.wiktionary",
-            "usage_count": "12"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ka.wikipedia",
             "usage_count": "12"
           }
         },
