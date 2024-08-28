@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "4539",
+        "total_usage": "4540",
         "distinct_images": "4173"
       },
       "usage": [
@@ -168,6 +168,12 @@
         },
         {
           "_attributes": {
+            "project": "hu.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "fr.wikibooks",
             "usage_count": "2"
           }
@@ -205,12 +211,6 @@
         {
           "_attributes": {
             "project": "ru.wikivoyage",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "hu.wikipedia",
             "usage_count": "2"
           }
         },
