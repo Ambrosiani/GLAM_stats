@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "1505",
+        "total_usage": "1506",
         "distinct_images": "1298"
       },
       "usage": [
@@ -90,19 +90,25 @@
         },
         {
           "_attributes": {
-            "project": "se.wikimedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
             "project": "eo.wikipedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "sr.wikipedia",
+            "project": "se.wikimedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pl.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sl.wikipedia",
             "usage_count": "2"
           }
         },
@@ -126,25 +132,19 @@
         },
         {
           "_attributes": {
-            "project": "sl.wikipedia",
+            "project": "ar.wikipedia",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "pl.wikipedia",
+            "project": "sr.wikipedia",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
             "project": "cs.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "outreach.wikipedia",
             "usage_count": "2"
           }
         },
@@ -168,7 +168,7 @@
         },
         {
           "_attributes": {
-            "project": "ar.wikipedia",
+            "project": "outreach.wikipedia",
             "usage_count": "2"
           }
         },
@@ -193,6 +193,12 @@
         {
           "_attributes": {
             "project": "bn.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "mt.wikipedia",
             "usage_count": "1"
           }
         },
