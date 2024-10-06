@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "12598",
-        "distinct_images": "6405"
+        "total_usage": "12600",
+        "distinct_images": "6407"
       },
       "usage": [
         {
@@ -192,6 +192,12 @@
         },
         {
           "_attributes": {
+            "project": "mdf.wikipedia",
+            "usage_count": "24"
+          }
+        },
+        {
+          "_attributes": {
             "project": "hu.wikipedia",
             "usage_count": "24"
           }
@@ -199,12 +205,6 @@
         {
           "_attributes": {
             "project": "outreach.wikipedia",
-            "usage_count": "22"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "mdf.wikipedia",
             "usage_count": "22"
           }
         },
