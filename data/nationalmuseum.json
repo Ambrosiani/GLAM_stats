@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "14797",
+        "total_usage": "14796",
         "distinct_images": "6000"
       },
       "usage": [
@@ -390,12 +390,6 @@
         },
         {
           "_attributes": {
-            "project": "simple.wikipedia",
-            "usage_count": "11"
-          }
-        },
-        {
-          "_attributes": {
             "project": "en.wikiquote",
             "usage_count": "10"
           }
@@ -409,6 +403,12 @@
         {
           "_attributes": {
             "project": "bar.wikipedia",
+            "usage_count": "10"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "simple.wikipedia",
             "usage_count": "10"
           }
         },
