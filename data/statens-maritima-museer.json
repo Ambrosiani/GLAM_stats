@@ -7,37 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Images from Statens maritima museer",
-      "images_in_category": "994",
+      "images_in_category": "792",
       "query_url": "glamorous.php?doit=1&category=Images+from+Statens+maritima+museer&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "81",
-        "distinct_images": "55"
+        "total_usage": "41",
+        "distinct_images": "33"
       },
       "usage": [
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "28"
+            "usage_count": "22"
           }
         },
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "15"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "en.wikipedia",
-            "usage_count": "12"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ru.wikipedia",
-            "usage_count": "4"
+            "usage_count": "6"
           }
         },
         {
@@ -54,61 +42,25 @@
         },
         {
           "_attributes": {
-            "project": "pt.wikipedia",
+            "project": "en.wikipedia",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "de.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "th.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "outreach.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "fr.wiktionary",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "es.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "et.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "id.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "no.wikipedia",
+            "project": "ru.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
             "project": "nl.wiktionary",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "fr.wiktionary",
             "usage_count": "1"
           }
         },
