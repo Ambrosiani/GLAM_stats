@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "12929",
+        "total_usage": "12930",
         "distinct_images": "6562"
       },
       "usage": [
@@ -654,6 +654,12 @@
         },
         {
           "_attributes": {
+            "project": "gor.wiktionary",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ml.wikipedia",
             "usage_count": "2"
           }
@@ -661,12 +667,6 @@
         {
           "_attributes": {
             "project": "it.wikivoyage",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "gor.wiktionary",
             "usage_count": "1"
           }
         },
