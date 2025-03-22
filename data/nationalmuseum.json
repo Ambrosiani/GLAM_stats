@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "14874",
+        "total_usage": "14875",
         "distinct_images": "6007"
       },
       "usage": [
@@ -420,6 +420,12 @@
         },
         {
           "_attributes": {
+            "project": "oc.wikipedia",
+            "usage_count": "10"
+          }
+        },
+        {
+          "_attributes": {
             "project": "en.wikiquote",
             "usage_count": "10"
           }
@@ -434,12 +440,6 @@
           "_attributes": {
             "project": "hr.wikipedia",
             "usage_count": "10"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "oc.wikipedia",
-            "usage_count": "9"
           }
         },
         {
