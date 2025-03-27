@@ -7,25 +7,25 @@
   "results": {
     "_attributes": {
       "category": "Images from the National Archives of Sweden",
-      "images_in_category": "2027",
+      "images_in_category": "2041",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+National+Archives+of+Sweden&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "4741",
-        "distinct_images": "993"
+        "total_usage": "4753",
+        "distinct_images": "1000"
       },
       "usage": [
         {
           "_attributes": {
             "project": "sv.wikipedia",
-            "usage_count": "1548"
+            "usage_count": "1554"
           }
         },
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "525"
+            "usage_count": "527"
           }
         },
         {
@@ -37,7 +37,7 @@
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "244"
+            "usage_count": "246"
           }
         },
         {
@@ -85,7 +85,7 @@
         {
           "_attributes": {
             "project": "es.wikipedia",
-            "usage_count": "72"
+            "usage_count": "73"
           }
         },
         {
@@ -282,6 +282,12 @@
         },
         {
           "_attributes": {
+            "project": "ca.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ur.wikipedia",
             "usage_count": "11"
           }
@@ -295,12 +301,6 @@
         {
           "_attributes": {
             "project": "bg.wikipedia",
-            "usage_count": "10"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ca.wikipedia",
             "usage_count": "10"
           }
         },
