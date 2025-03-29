@@ -7,13 +7,13 @@
   "results": {
     "_attributes": {
       "category": "Images from the Nationalmuseum Stockholm",
-      "images_in_category": "6266",
+      "images_in_category": "6267",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+Nationalmuseum+Stockholm&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "14886",
-        "distinct_images": "6008"
+        "total_usage": "14887",
+        "distinct_images": "6009"
       },
       "usage": [
         {
@@ -84,13 +84,13 @@
         },
         {
           "_attributes": {
-            "project": "no.wikipedia",
+            "project": "ja.wikipedia",
             "usage_count": "188"
           }
         },
         {
           "_attributes": {
-            "project": "ja.wikipedia",
+            "project": "no.wikipedia",
             "usage_count": "188"
           }
         },
@@ -252,7 +252,7 @@
         },
         {
           "_attributes": {
-            "project": "ka.wikipedia",
+            "project": "la.wikipedia",
             "usage_count": "43"
           }
         },
@@ -264,7 +264,7 @@
         },
         {
           "_attributes": {
-            "project": "la.wikipedia",
+            "project": "ka.wikipedia",
             "usage_count": "43"
           }
         },
@@ -300,13 +300,13 @@
         },
         {
           "_attributes": {
-            "project": "cy.wikipedia",
+            "project": "fy.wikipedia",
             "usage_count": "25"
           }
         },
         {
           "_attributes": {
-            "project": "fy.wikipedia",
+            "project": "cy.wikipedia",
             "usage_count": "25"
           }
         },
@@ -318,13 +318,13 @@
         },
         {
           "_attributes": {
-            "project": "outreach.wikipedia",
-            "usage_count": "22"
+            "project": "gl.wikipedia",
+            "usage_count": "23"
           }
         },
         {
           "_attributes": {
-            "project": "gl.wikipedia",
+            "project": "outreach.wikipedia",
             "usage_count": "22"
           }
         },
@@ -360,6 +360,12 @@
         },
         {
           "_attributes": {
+            "project": "en.wiktionary",
+            "usage_count": "12"
+          }
+        },
+        {
+          "_attributes": {
             "project": "io.wikipedia",
             "usage_count": "12"
           }
@@ -372,19 +378,13 @@
         },
         {
           "_attributes": {
-            "project": "dag.wikipedia",
-            "usage_count": "12"
-          }
-        },
-        {
-          "_attributes": {
             "project": "sh.wikipedia",
             "usage_count": "12"
           }
         },
         {
           "_attributes": {
-            "project": "en.wiktionary",
+            "project": "dag.wikipedia",
             "usage_count": "12"
           }
         },
@@ -396,19 +396,19 @@
         },
         {
           "_attributes": {
-            "project": "is.wikipedia",
-            "usage_count": "11"
-          }
-        },
-        {
-          "_attributes": {
             "project": "sco.wikipedia",
             "usage_count": "11"
           }
         },
         {
           "_attributes": {
-            "project": "en.wikiquote",
+            "project": "is.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "bar.wikipedia",
             "usage_count": "10"
           }
         },
@@ -426,13 +426,13 @@
         },
         {
           "_attributes": {
-            "project": "hr.wikipedia",
+            "project": "en.wikiquote",
             "usage_count": "10"
           }
         },
         {
           "_attributes": {
-            "project": "bar.wikipedia",
+            "project": "hr.wikipedia",
             "usage_count": "10"
           }
         },
