@@ -7,13 +7,13 @@
   "results": {
     "_attributes": {
       "category": "Images from the Swedish Railway Museum",
-      "images_in_category": "339",
+      "images_in_category": "340",
       "query_url": "glamorous.php?doit=1&category=Images+from+the+Swedish+Railway+Museum&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "183",
-        "distinct_images": "98"
+        "total_usage": "185",
+        "distinct_images": "99"
       },
       "usage": [
         {
@@ -78,6 +78,12 @@
         },
         {
           "_attributes": {
+            "project": "fr.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "et.wikipedia",
             "usage_count": "2"
           }
@@ -90,6 +96,12 @@
         },
         {
           "_attributes": {
+            "project": "nl.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "id.wikipedia",
             "usage_count": "2"
           }
@@ -97,12 +109,6 @@
         {
           "_attributes": {
             "project": "da.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "sv.wiktionary",
             "usage_count": "1"
           }
         },
@@ -138,13 +144,13 @@
         },
         {
           "_attributes": {
-            "project": "nl.wikipedia",
+            "project": "pt.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "pt.wikipedia",
+            "project": "sv.wiktionary",
             "usage_count": "1"
           }
         },
@@ -175,12 +181,6 @@
         {
           "_attributes": {
             "project": "it.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "fr.wikipedia",
             "usage_count": "1"
           }
         },
