@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "7354",
+        "total_usage": "7355",
         "distinct_images": "3371"
       },
       "usage": [
@@ -414,6 +414,12 @@
         },
         {
           "_attributes": {
+            "project": "zh_yue.wikipedia",
+            "usage_count": "8"
+          }
+        },
+        {
+          "_attributes": {
             "project": "la.wikipedia",
             "usage_count": "8"
           }
@@ -421,12 +427,6 @@
         {
           "_attributes": {
             "project": "he.wikiquote",
-            "usage_count": "7"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "zh_yue.wikipedia",
             "usage_count": "7"
           }
         },
