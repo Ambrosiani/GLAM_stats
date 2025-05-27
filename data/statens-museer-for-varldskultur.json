@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "2320",
+        "total_usage": "2321",
         "distinct_images": "725"
       },
       "usage": [
@@ -246,6 +246,12 @@
         },
         {
           "_attributes": {
+            "project": "ha.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ms.wikipedia",
             "usage_count": "10"
           }
@@ -253,12 +259,6 @@
         {
           "_attributes": {
             "project": "pnb.wikipedia",
-            "usage_count": "10"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ha.wikipedia",
             "usage_count": "10"
           }
         },
