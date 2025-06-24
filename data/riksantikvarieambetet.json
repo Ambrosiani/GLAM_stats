@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "13257",
-        "distinct_images": "6678"
+        "total_usage": "13262",
+        "distinct_images": "6682"
       },
       "usage": [
         {
@@ -25,7 +25,7 @@
         {
           "_attributes": {
             "project": "wikidata.wikidata",
-            "usage_count": "2446"
+            "usage_count": "2450"
           }
         },
         {
@@ -192,13 +192,13 @@
         },
         {
           "_attributes": {
-            "project": "ca.wikipedia",
+            "project": "hu.wikipedia",
             "usage_count": "25"
           }
         },
         {
           "_attributes": {
-            "project": "hu.wikipedia",
+            "project": "ca.wikipedia",
             "usage_count": "25"
           }
         },
@@ -234,7 +234,7 @@
         },
         {
           "_attributes": {
-            "project": "sr.wikipedia",
+            "project": "sv.wikivoyage",
             "usage_count": "16"
           }
         },
@@ -246,14 +246,8 @@
         },
         {
           "_attributes": {
-            "project": "sv.wikivoyage",
+            "project": "sr.wikipedia",
             "usage_count": "16"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "tr.wikipedia",
-            "usage_count": "15"
           }
         },
         {
@@ -264,13 +258,19 @@
         },
         {
           "_attributes": {
-            "project": "avk.wikipedia",
+            "project": "tr.wikipedia",
             "usage_count": "15"
           }
         },
         {
           "_attributes": {
             "project": "lt.wikipedia",
+            "usage_count": "15"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "avk.wikipedia",
             "usage_count": "15"
           }
         },
@@ -288,7 +288,13 @@
         },
         {
           "_attributes": {
-            "project": "id.wikipedia",
+            "project": "de.wikivoyage",
+            "usage_count": "13"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sl.wikipedia",
             "usage_count": "13"
           }
         },
@@ -300,14 +306,8 @@
         },
         {
           "_attributes": {
-            "project": "de.wikivoyage",
+            "project": "id.wikipedia",
             "usage_count": "13"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "bg.wikipedia",
-            "usage_count": "12"
           }
         },
         {
@@ -324,7 +324,7 @@
         },
         {
           "_attributes": {
-            "project": "sl.wikipedia",
+            "project": "bg.wikipedia",
             "usage_count": "12"
           }
         },
