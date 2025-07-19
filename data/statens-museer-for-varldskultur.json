@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "2377",
+        "total_usage": "2378",
         "distinct_images": "730"
       },
       "usage": [
@@ -330,6 +330,12 @@
         },
         {
           "_attributes": {
+            "project": "ig.wikipedia",
+            "usage_count": "6"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ta.wikipedia",
             "usage_count": "6"
           }
@@ -355,12 +361,6 @@
         {
           "_attributes": {
             "project": "sw.wikipedia",
-            "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ig.wikipedia",
             "usage_count": "5"
           }
         },
@@ -684,7 +684,7 @@
         },
         {
           "_attributes": {
-            "project": "su.wikipedia",
+            "project": "th.wikiquote",
             "usage_count": "1"
           }
         },
@@ -702,13 +702,13 @@
         },
         {
           "_attributes": {
-            "project": "th.wikiquote",
+            "project": "tt.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "tt.wikipedia",
+            "project": "sr.wikiquote",
             "usage_count": "1"
           }
         },
@@ -780,7 +780,7 @@
         },
         {
           "_attributes": {
-            "project": "sr.wikiquote",
+            "project": "su.wikipedia",
             "usage_count": "1"
           }
         },
@@ -804,7 +804,7 @@
         },
         {
           "_attributes": {
-            "project": "om.wikipedia",
+            "project": "am.wikipedia",
             "usage_count": "1"
           }
         },
@@ -906,7 +906,7 @@
         },
         {
           "_attributes": {
-            "project": "am.wikipedia",
+            "project": "om.wikipedia",
             "usage_count": "1"
           }
         },
