@@ -12,14 +12,20 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "512",
-        "distinct_images": "185"
+        "total_usage": "557",
+        "distinct_images": "226"
       },
       "usage": [
         {
           "_attributes": {
             "project": "avk.wikipedia",
             "usage_count": "96"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "wikidata.wikidata",
+            "usage_count": "95"
           }
         },
         {
@@ -32,12 +38,6 @@
           "_attributes": {
             "project": "de.wikipedia",
             "usage_count": "63"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "wikidata.wikidata",
-            "usage_count": "50"
           }
         },
         {
