@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "4624",
+        "total_usage": "4627",
         "distinct_images": "4211"
       },
       "usage": [
@@ -162,6 +162,12 @@
         },
         {
           "_attributes": {
+            "project": "arz.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ar.wikipedia",
             "usage_count": "3"
           }
@@ -174,7 +180,7 @@
         },
         {
           "_attributes": {
-            "project": "zh_yue.wikipedia",
+            "project": "en.wiktionary",
             "usage_count": "2"
           }
         },
@@ -186,19 +192,7 @@
         },
         {
           "_attributes": {
-            "project": "en.wiktionary",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
             "project": "en.wikibooks",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ba.wikipedia",
             "usage_count": "2"
           }
         },
@@ -210,13 +204,31 @@
         },
         {
           "_attributes": {
+            "project": "ba.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "zh_yue.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
             "project": "fr.wikibooks",
             "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "de.wiktionary",
+            "project": "zh.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sk.wikipedia",
             "usage_count": "1"
           }
         },
@@ -234,13 +246,13 @@
         },
         {
           "_attributes": {
-            "project": "zh.wikipedia",
+            "project": "fr.wiktionary",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "mt.wikipedia",
+            "project": "de.wiktionary",
             "usage_count": "1"
           }
         },
@@ -258,19 +270,13 @@
         },
         {
           "_attributes": {
-            "project": "meta.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
             "project": "vec.wiktionary",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "meta.wikipedia",
             "usage_count": "1"
           }
         },
@@ -282,19 +288,13 @@
         },
         {
           "_attributes": {
-            "project": "fr.wiktionary",
+            "project": "mt.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "sk.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "fi.wiktionary",
+            "project": "ca.wikipedia",
             "usage_count": "1"
           }
         },
@@ -378,7 +378,7 @@
         },
         {
           "_attributes": {
-            "project": "ca.wikipedia",
+            "project": "fi.wiktionary",
             "usage_count": "1"
           }
         },
