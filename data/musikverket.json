@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "6139",
+        "total_usage": "6144",
         "distinct_images": "5323"
       },
       "usage": [
@@ -114,6 +114,12 @@
         },
         {
           "_attributes": {
+            "project": "arz.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
             "project": "uk.wikipedia",
             "usage_count": "10"
           }
@@ -132,13 +138,13 @@
         },
         {
           "_attributes": {
-            "project": "da.wikipedia",
+            "project": "ceb.wikipedia",
             "usage_count": "8"
           }
         },
         {
           "_attributes": {
-            "project": "ceb.wikipedia",
+            "project": "da.wikipedia",
             "usage_count": "8"
           }
         },
@@ -156,25 +162,19 @@
         },
         {
           "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "6"
-          }
-        },
-        {
-          "_attributes": {
             "project": "ca.wikipedia",
             "usage_count": "6"
           }
         },
         {
           "_attributes": {
-            "project": "hyw.wikipedia",
+            "project": "he.wikipedia",
             "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "he.wikipedia",
+            "project": "hyw.wikipedia",
             "usage_count": "4"
           }
         },
@@ -210,6 +210,12 @@
         },
         {
           "_attributes": {
+            "project": "pl.wiktionary",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "zh.wikipedia",
             "usage_count": "3"
           }
@@ -223,12 +229,6 @@
         {
           "_attributes": {
             "project": "eu.wikipedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pl.wiktionary",
             "usage_count": "3"
           }
         },
