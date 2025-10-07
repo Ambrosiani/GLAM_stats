@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "909",
+        "total_usage": "910",
         "distinct_images": "394"
       },
       "usage": [
@@ -72,13 +72,13 @@
         },
         {
           "_attributes": {
-            "project": "nl.wikipedia",
+            "project": "ru.wikipedia",
             "usage_count": "15"
           }
         },
         {
           "_attributes": {
-            "project": "ru.wikipedia",
+            "project": "nl.wikipedia",
             "usage_count": "15"
           }
         },
@@ -144,19 +144,25 @@
         },
         {
           "_attributes": {
+            "project": "fa.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "se.wikimedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "ar.wikipedia",
+            "project": "cs.wikipedia",
             "usage_count": "3"
           }
         },
         {
           "_attributes": {
-            "project": "cs.wikipedia",
+            "project": "ar.wikipedia",
             "usage_count": "3"
           }
         },
@@ -169,12 +175,6 @@
         {
           "_attributes": {
             "project": "en.wiktionary",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "fa.wikipedia",
             "usage_count": "2"
           }
         },
@@ -204,12 +204,6 @@
         },
         {
           "_attributes": {
-            "project": "hy.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
             "project": "sw.wikipedia",
             "usage_count": "1"
           }
@@ -223,6 +217,12 @@
         {
           "_attributes": {
             "project": "bs.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "hy.wikipedia",
             "usage_count": "1"
           }
         },
