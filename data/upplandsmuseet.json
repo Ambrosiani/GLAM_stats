@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "119",
+        "total_usage": "120",
         "distinct_images": "24"
       },
       "usage": [
@@ -48,6 +48,12 @@
         },
         {
           "_attributes": {
+            "project": "ru.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
             "project": "es.wikipedia",
             "usage_count": "3"
           }
@@ -60,8 +66,8 @@
         },
         {
           "_attributes": {
-            "project": "ru.wikipedia",
-            "usage_count": "3"
+            "project": "eu.wikipedia",
+            "usage_count": "2"
           }
         },
         {
@@ -72,25 +78,7 @@
         },
         {
           "_attributes": {
-            "project": "id.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "eu.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ja.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pt.wikipedia",
+            "project": "de.wikipedia",
             "usage_count": "2"
           }
         },
@@ -102,32 +90,20 @@
         },
         {
           "_attributes": {
-            "project": "vi.wikipedia",
-            "usage_count": "1"
+            "project": "pt.wikipedia",
+            "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "zh_yue.wikipedia",
-            "usage_count": "1"
+            "project": "id.wikipedia",
+            "usage_count": "2"
           }
         },
         {
           "_attributes": {
-            "project": "mg.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "mr.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "yo.wikipedia",
-            "usage_count": "1"
+            "project": "ja.wikipedia",
+            "usage_count": "2"
           }
         },
         {
@@ -156,13 +132,13 @@
         },
         {
           "_attributes": {
-            "project": "uz.wikipedia",
+            "project": "mr.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "wuu.wikipedia",
+            "project": "tr.wikipedia",
             "usage_count": "1"
           }
         },
@@ -204,7 +180,37 @@
         },
         {
           "_attributes": {
-            "project": "tr.wikipedia",
+            "project": "uz.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "vi.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "wuu.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "yo.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "zh_yue.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "mg.wikipedia",
             "usage_count": "1"
           }
         },
@@ -222,7 +228,7 @@
         },
         {
           "_attributes": {
-            "project": "da.wikipedia",
+            "project": "ca.wikipedia",
             "usage_count": "1"
           }
         },
@@ -270,13 +276,7 @@
         },
         {
           "_attributes": {
-            "project": "ca.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "de.wikipedia",
+            "project": "da.wikipedia",
             "usage_count": "1"
           }
         },
