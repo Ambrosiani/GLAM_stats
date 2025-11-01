@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "96",
+        "total_usage": "97",
         "distinct_images": "63"
       },
       "usage": [
@@ -44,6 +44,12 @@
           "_attributes": {
             "project": "outreach.wikipedia",
             "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "fr.wikipedia",
+            "usage_count": "2"
           }
         },
         {
@@ -85,12 +91,6 @@
         {
           "_attributes": {
             "project": "da.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "fr.wikipedia",
             "usage_count": "1"
           }
         },

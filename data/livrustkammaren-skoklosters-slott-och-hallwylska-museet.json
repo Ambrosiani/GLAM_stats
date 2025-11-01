@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "7508",
+        "total_usage": "7509",
         "distinct_images": "3400"
       },
       "usage": [
@@ -438,6 +438,12 @@
         },
         {
           "_attributes": {
+            "project": "be_x_old.wikipedia",
+            "usage_count": "8"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ru.wikiquote",
             "usage_count": "7"
           }
@@ -481,12 +487,6 @@
         {
           "_attributes": {
             "project": "sq.wikipedia",
-            "usage_count": "7"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "be_x_old.wikipedia",
             "usage_count": "7"
           }
         },
