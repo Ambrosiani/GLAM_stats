@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "15469",
+        "total_usage": "15473",
         "distinct_images": "6027"
       },
       "usage": [
@@ -31,7 +31,7 @@
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "1000"
+            "usage_count": "1001"
           }
         },
         {
@@ -330,6 +330,12 @@
         },
         {
           "_attributes": {
+            "project": "sk.wikipedia",
+            "usage_count": "22"
+          }
+        },
+        {
+          "_attributes": {
             "project": "th.wikipedia",
             "usage_count": "22"
           }
@@ -344,12 +350,6 @@
           "_attributes": {
             "project": "lv.wikipedia",
             "usage_count": "22"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "sk.wikipedia",
-            "usage_count": "21"
           }
         },
         {
@@ -486,6 +486,12 @@
         },
         {
           "_attributes": {
+            "project": "new.wikipedia",
+            "usage_count": "6"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ms.wikipedia",
             "usage_count": "6"
           }
@@ -510,7 +516,7 @@
         },
         {
           "_attributes": {
-            "project": "it.wikiquote",
+            "project": "als.wikipedia",
             "usage_count": "5"
           }
         },
@@ -522,20 +528,8 @@
         },
         {
           "_attributes": {
-            "project": "als.wikipedia",
+            "project": "it.wikiquote",
             "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "en.wikiversity",
-            "usage_count": "4"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "frr.wikipedia",
-            "usage_count": "4"
           }
         },
         {
@@ -547,6 +541,12 @@
         {
           "_attributes": {
             "project": "pnb.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "frr.wikipedia",
             "usage_count": "4"
           }
         },
@@ -570,7 +570,7 @@
         },
         {
           "_attributes": {
-            "project": "new.wikipedia",
+            "project": "en.wikiversity",
             "usage_count": "4"
           }
         },
