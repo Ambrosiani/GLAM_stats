@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "183",
-        "distinct_images": "46"
+        "total_usage": "184",
+        "distinct_images": "47"
       },
       "usage": [
         {
@@ -54,6 +54,12 @@
         },
         {
           "_attributes": {
+            "project": "pl.wikipedia",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
             "project": "fa.wikipedia",
             "usage_count": "5"
           }
@@ -61,12 +67,6 @@
         {
           "_attributes": {
             "project": "ceb.wikipedia",
-            "usage_count": "4"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "pl.wikipedia",
             "usage_count": "4"
           }
         },
