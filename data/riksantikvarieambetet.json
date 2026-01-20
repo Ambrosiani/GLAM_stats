@@ -12,8 +12,8 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "13604",
-        "distinct_images": "6866"
+        "total_usage": "13605",
+        "distinct_images": "6867"
       },
       "usage": [
         {
@@ -336,6 +336,12 @@
         },
         {
           "_attributes": {
+            "project": "is.wikipedia",
+            "usage_count": "11"
+          }
+        },
+        {
+          "_attributes": {
             "project": "lt.wiktionary",
             "usage_count": "11"
           }
@@ -343,12 +349,6 @@
         {
           "_attributes": {
             "project": "sv.wiktionary",
-            "usage_count": "10"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "is.wikipedia",
             "usage_count": "10"
           }
         },
