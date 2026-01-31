@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3553",
+        "total_usage": "3552",
         "distinct_images": "1540"
       },
       "usage": [
@@ -360,12 +360,6 @@
         },
         {
           "_attributes": {
-            "project": "incubator.wikipedia",
-            "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
             "project": "cv.wikipedia",
             "usage_count": "5"
           }
@@ -391,6 +385,12 @@
         {
           "_attributes": {
             "project": "ml.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "incubator.wikipedia",
             "usage_count": "4"
           }
         },
