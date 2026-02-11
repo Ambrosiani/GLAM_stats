@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "495",
+        "total_usage": "496",
         "distinct_images": "294"
       },
       "usage": [
@@ -60,6 +60,12 @@
         },
         {
           "_attributes": {
+            "project": "arz.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
             "project": "ko.wikipedia",
             "usage_count": "3"
           }
@@ -80,18 +86,6 @@
           "_attributes": {
             "project": "nl.wikipedia",
             "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "arz.wikipedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "sv.wiktionary",
-            "usage_count": "2"
           }
         },
         {
@@ -120,7 +114,19 @@
         },
         {
           "_attributes": {
-            "project": "no.wikipedia",
+            "project": "sv.wiktionary",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "mk.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pl.wikipedia",
             "usage_count": "1"
           }
         },
@@ -162,13 +168,13 @@
         },
         {
           "_attributes": {
-            "project": "pl.wikipedia",
+            "project": "id.wikipedia",
             "usage_count": "1"
           }
         },
         {
           "_attributes": {
-            "project": "sr.wikipedia",
+            "project": "no.wikipedia",
             "usage_count": "1"
           }
         },
@@ -186,13 +192,7 @@
         },
         {
           "_attributes": {
-            "project": "id.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "mk.wikipedia",
+            "project": "sr.wikipedia",
             "usage_count": "1"
           }
         },
