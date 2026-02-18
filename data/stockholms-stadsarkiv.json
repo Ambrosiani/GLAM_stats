@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "104",
+        "total_usage": "105",
         "distinct_images": "53"
       },
       "usage": [
@@ -55,6 +55,12 @@
         {
           "_attributes": {
             "project": "da.wikipedia",
+            "usage_count": "1"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "en.wiktionary",
             "usage_count": "1"
           }
         },
