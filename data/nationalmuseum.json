@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "15593",
+        "total_usage": "15600",
         "distinct_images": "6030"
       },
       "usage": [
@@ -31,7 +31,7 @@
         {
           "_attributes": {
             "project": "en.wikipedia",
-            "usage_count": "1011"
+            "usage_count": "1017"
           }
         },
         {
@@ -456,6 +456,12 @@
         },
         {
           "_attributes": {
+            "project": "bn.wikipedia",
+            "usage_count": "8"
+          }
+        },
+        {
+          "_attributes": {
             "project": "zh_yue.wikipedia",
             "usage_count": "8"
           }
@@ -464,12 +470,6 @@
           "_attributes": {
             "project": "zh_min_nan.wikipedia",
             "usage_count": "8"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "bn.wikipedia",
-            "usage_count": "7"
           }
         },
         {
