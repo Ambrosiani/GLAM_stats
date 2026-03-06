@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "15609",
+        "total_usage": "15611",
         "distinct_images": "6032"
       },
       "usage": [
@@ -73,7 +73,7 @@
         {
           "_attributes": {
             "project": "es.wikipedia",
-            "usage_count": "262"
+            "usage_count": "263"
           }
         },
         {
@@ -510,6 +510,12 @@
         },
         {
           "_attributes": {
+            "project": "incubator.wikipedia",
+            "usage_count": "6"
+          }
+        },
+        {
+          "_attributes": {
             "project": "it.wikiquote",
             "usage_count": "5"
           }
@@ -517,12 +523,6 @@
         {
           "_attributes": {
             "project": "als.wikipedia",
-            "usage_count": "5"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "incubator.wikipedia",
             "usage_count": "5"
           }
         },
