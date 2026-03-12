@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "67",
+        "total_usage": "68",
         "distinct_images": "24"
       },
       "usage": [
@@ -36,25 +36,25 @@
         },
         {
           "_attributes": {
-            "project": "hy.wikipedia",
-            "usage_count": "7"
-          }
-        },
-        {
-          "_attributes": {
             "project": "uk.wikipedia",
             "usage_count": "7"
           }
         },
         {
           "_attributes": {
-            "project": "sv.wikipedia",
-            "usage_count": "5"
+            "project": "hy.wikipedia",
+            "usage_count": "7"
           }
         },
         {
           "_attributes": {
             "project": "en.wikipedia",
+            "usage_count": "5"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "sv.wikipedia",
             "usage_count": "5"
           }
         },
@@ -66,13 +66,7 @@
         },
         {
           "_attributes": {
-            "project": "pt.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "es.wikipedia",
+            "project": "fi.wikipedia",
             "usage_count": "2"
           }
         },
@@ -84,7 +78,19 @@
         },
         {
           "_attributes": {
-            "project": "fi.wikipedia",
+            "project": "es.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pt.wikipedia",
+            "usage_count": "2"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "vi.wikipedia",
             "usage_count": "1"
           }
         },
@@ -103,12 +109,6 @@
         {
           "_attributes": {
             "project": "de.wikipedia",
-            "usage_count": "1"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "vi.wikipedia",
             "usage_count": "1"
           }
         },
