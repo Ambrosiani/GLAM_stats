@@ -12,7 +12,7 @@
     },
     "stats": {
       "_attributes": {
-        "total_usage": "15646",
+        "total_usage": "15648",
         "distinct_images": "6033"
       },
       "usage": [
@@ -151,7 +151,7 @@
         {
           "_attributes": {
             "project": "ro.wikipedia",
-            "usage_count": "93"
+            "usage_count": "94"
           }
         },
         {
@@ -546,6 +546,12 @@
         },
         {
           "_attributes": {
+            "project": "ur.wikipedia",
+            "usage_count": "4"
+          }
+        },
+        {
+          "_attributes": {
             "project": "en.wikiversity",
             "usage_count": "4"
           }
@@ -601,12 +607,6 @@
         {
           "_attributes": {
             "project": "fiu_vro.wikipedia",
-            "usage_count": "3"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "ur.wikipedia",
             "usage_count": "3"
           }
         },
