@@ -7,12 +7,12 @@
   "results": {
     "_attributes": {
       "category": "Images from Nordiska museet",
-      "images_in_category": "47977",
+      "images_in_category": "48559",
       "query_url": "glamorous.php?doit=1&category=Images+from+Nordiska+museet&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml"
     },
     "stats": {
       "_attributes": {
-        "total_usage": "3585",
+        "total_usage": "3586",
         "distinct_images": "1545"
       },
       "usage": [
@@ -426,13 +426,13 @@
         },
         {
           "_attributes": {
-            "project": "nds.wikipedia",
+            "project": "ckb.wikipedia",
             "usage_count": "4"
           }
         },
         {
           "_attributes": {
-            "project": "ckb.wikipedia",
+            "project": "nds.wikipedia",
             "usage_count": "4"
           }
         },
@@ -444,7 +444,13 @@
         },
         {
           "_attributes": {
-            "project": "lfn.wikipedia",
+            "project": "sh.wikipedia",
+            "usage_count": "3"
+          }
+        },
+        {
+          "_attributes": {
+            "project": "pa.wikipedia",
             "usage_count": "3"
           }
         },
@@ -474,7 +480,7 @@
         },
         {
           "_attributes": {
-            "project": "sh.wikipedia",
+            "project": "lfn.wikipedia",
             "usage_count": "3"
           }
         },
@@ -522,7 +528,7 @@
         },
         {
           "_attributes": {
-            "project": "pa.wikipedia",
+            "project": "io.wikipedia",
             "usage_count": "3"
           }
         },
@@ -547,12 +553,6 @@
         {
           "_attributes": {
             "project": "la.wikipedia",
-            "usage_count": "2"
-          }
-        },
-        {
-          "_attributes": {
-            "project": "io.wikipedia",
             "usage_count": "2"
           }
         },
