@@ -14,7 +14,7 @@ var institutions = await readJSON('se_config.json')
 var stats = []
 
 for (const institution of institutions) {
-    let url = 'https://tools.wmflabs.org//glamtools/glamorous.php?doit=1&category=' + institution.cat.replace(' ', '+') + '&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml'
+    let url = 'https://tools.wmflabs.org//glamtools/glamorous/?doit=1&category=' + institution.cat.replace(' ', '+') + '&use_globalusage=1&ns0=1&depth=9&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1&format=xml'
     let response = await fetch(url)
     let body = await response.text()
     let data = xml2js(body, { compact: true })
