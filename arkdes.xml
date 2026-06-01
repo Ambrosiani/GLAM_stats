@@ -1,1 +1,31 @@
-<?xml version="1.0"?><results category='Images from ArkDes' images_in_category='2420' query_url='glamorous.php?doit=1&amp;category=Images+from+ArkDes&amp;use_globalusage=1&amp;ns0=1&amp;depth=9&amp;projects[wikipedia]=1&amp;projects[wikimedia]=1&amp;projects[wikisource]=1&amp;projects[wikibooks]=1&amp;projects[wikiquote]=1&amp;projects[wiktionary]=1&amp;projects[wikinews]=1&amp;projects[wikivoyage]=1&amp;projects[wikispecies]=1&amp;projects[mediawiki]=1&amp;projects[wikidata]=1&amp;projects[wikiversity]=1&amp;format=xml'><stats total_usage='723' distinct_images='397'><usage project='sv.wikipedia' usage_count='449' /><usage project='wikidata.wikidata' usage_count='50' /><usage project='en.wikipedia' usage_count='46' /><usage project='de.wikipedia' usage_count='21' /><usage project='cs.wikipedia' usage_count='16' /><usage project='arz.wikipedia' usage_count='14' /><usage project='da.wikipedia' usage_count='14' /><usage project='ru.wikipedia' usage_count='12' /><usage project='no.wikipedia' usage_count='11' /><usage project='fr.wikipedia' usage_count='10' /><usage project='es.wikipedia' usage_count='8' /><usage project='fi.wikipedia' usage_count='7' /><usage project='pl.wikipedia' usage_count='6' /><usage project='outreach.wikipedia' usage_count='6' /><usage project='uk.wikipedia' usage_count='5' /><usage project='it.wikipedia' usage_count='5' /><usage project='ja.wikipedia' usage_count='5' /><usage project='nl.wikipedia' usage_count='4' /><usage project='hy.wikipedia' usage_count='3' /><usage project='sd.wikipedia' usage_count='2' /><usage project='he.wikipedia' usage_count='2' /><usage project='fa.wikipedia' usage_count='2' /><usage project='el.wikipedia' usage_count='2' /><usage project='mk.wikipedia' usage_count='2' /><usage project='smn.wikipedia' usage_count='2' /><usage project='nn.wikipedia' usage_count='2' /><usage project='pt.wikipedia' usage_count='2' /><usage project='ar.wikipedia' usage_count='2' /><usage project='eo.wikipedia' usage_count='1' /><usage project='se.wikipedia' usage_count='1' /><usage project='lld.wikipedia' usage_count='1' /><usage project='sv.wiktionary' usage_count='1' /><usage project='hu.wikipedia' usage_count='1' /><usage project='be.wikipedia' usage_count='1' /><usage project='ca.wikipedia' usage_count='1' /><usage project='vi.wikipedia' usage_count='1' /><usage project='hi.wikipedia' usage_count='1' /><usage project='bn.wikipedia' usage_count='1' /><usage project='th.wikipedia' usage_count='1' /><usage project='gag.wikipedia' usage_count='1' /><usage project='la.wikipedia' usage_count='1' /></stats></results>
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--<link rel="stylesheet" type="text/css" href="../js/bootstrap2.1/css/bootstrap.min.css" />-->
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap-combined.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../resources/css/common.css" />
+<!--<link rel="stylesheet" type="text/css" href="../resources/css/tablesorter/blue/style.css" id="" media="print, projection, screen" />-->
+</head>
+
+<body>
+<div id='menubar' class="navbar navbar-static-top"></div>
+<div id='main_content' class="container"></div>
+</body>
+
+<script type="text/javascript" src="../resources/js/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../resources/js/jquery/jquery-migrate-1.0.0.min.js"></script>
+<script type="text/javascript" src="../resources/js/jquery/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="../resources/js/jquery/jquery.tablesorter.pager.js"></script>
+
+<!--<script type="text/javascript" src="../js/bootstrap2.1/js/bootstrap.min.js"></script>-->
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/js/bootstrap.min.js"></script>
+
+<!--<script type="text/javascript" src="../resources/js/FileSaver.js"></script>-->
+<script type="text/javascript" src="../resources/js/jquery/jquery.jsonp-2.3.1.min.js"></script>
+<script type="text/javascript" src="../resources/js/common.js"></script>
+<script type="text/javascript" src="../resources/js/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="main.js"></script>
+
+</html>
